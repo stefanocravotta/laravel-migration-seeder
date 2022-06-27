@@ -1,0 +1,15 @@
+.btn {
+  padding: 0.55rem 1.5rem 0.45rem;
+}
+
+body {
+  min-height: 100vh;
+}
+body main {
+  min-height: 300px;
+}
+body main .train {
+  background-color: lightblue;
+  border: 1px solid black;
+  min-height: 250px;
+}

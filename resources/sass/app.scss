@@ -1,1 +1,14 @@
 //
+@import 'partials/header';
+
+body{
+    min-height : 100vh;
+    main{
+        min-height: 300px;
+        .train{
+            background-color: lightblue;
+            border: 1px solid black;
+            min-height : 250px;
+        }
+    }
+}
